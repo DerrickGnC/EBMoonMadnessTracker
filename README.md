@@ -1,7 +1,7 @@
 # EBMoonMadnessTracker
 
-Creators:
-  DerrickGnC (https://www.twitch.tv/derrickGnC) /n
+Creators:  
+  DerrickGnC (https://www.twitch.tv/derrickGnC)  
   kewelball (https://www.twitch.tv/kewelball)
   
 Usage
