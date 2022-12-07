@@ -1,7 +1,7 @@
 {
     "1":
         {
-            "Location":"Test",
+            "Location":"xxx",
             "SoftLock":"No"
         },
     "2":
@@ -82,7 +82,7 @@
         },
     "17":
         {
-            "Location":"xxx",
+            "Location":"Threed Hotel",
             "SoftLock":"No"
         },
     "18":
@@ -152,7 +152,7 @@
         },
     "31":
         {
-            "Location":"xxx",
+            "Location":"Summers",
             "SoftLock":"No"
         },
     "32":
@@ -422,7 +422,7 @@
         },
     "85":
         {
-            "Location":"xxx",
+            "Location":"Fourside",
             "SoftLock":"No"
         },
     "86":
@@ -432,7 +432,7 @@
         },
     "87":
         {
-            "Location":"xxx",
+            "Location":"Monotoli Bldg 46th floor",
             "SoftLock":"No"
         },
     "88":
@@ -447,7 +447,7 @@
         },
     "90":
         {
-            "Location":"xxx",
+            "Location":"Winters Dungeon Man",
             "SoftLock":"No"
         },
     "91":
@@ -472,7 +472,7 @@
         },
     "95":
         {
-            "Location":"xxx",
+            "Location":"Threed Graveyard",
             "SoftLock":"No"
         },
     "96":
@@ -522,7 +522,7 @@
         },
     "105":
         {
-            "Location":"xxx",
+            "Location":"Happy Happy Village",
             "SoftLock":"No"
         },
     "106":
@@ -912,7 +912,7 @@
         },
     "183":
         {
-            "Location":"xxx",
+            "Location":"Giant Step Sanctuary",
             "SoftLock":"No"
         },
     "184":
@@ -947,7 +947,7 @@
         },
     "190":
         {
-            "Location":"xxx",
+            "Location":"Fourside",
             "SoftLock":"No"
         },
     "191":
@@ -1057,7 +1057,7 @@
         },
     "212":
         {
-            "Location":"xxx",
+            "Location":"Threed Dusty Dunes tunnel",
             "SoftLock":"No"
         },
     "213":
