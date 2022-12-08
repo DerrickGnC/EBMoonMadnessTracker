@@ -57,7 +57,7 @@
         },
     "12":
         {
-            "Location":"xxx",
+            "Location":"Scaraba Hotel",
             "SoftLock":"No"
         },
     "13":
@@ -112,7 +112,7 @@
         },
     "23":
         {
-            "Location":"xxx",
+            "Location":"Magicant",
             "SoftLock":"No"
         },
     "24":
@@ -147,7 +147,7 @@
         },
     "30":
         {
-            "Location":"xxx",
+            "Location":"Winters",
             "SoftLock":"No"
         },
     "31":
@@ -237,7 +237,7 @@
         },
     "48":
         {
-            "Location":"xxx",
+            "Location":"Saturn Valley hotel ",
             "SoftLock":"No"
         },
     "49":
@@ -262,7 +262,7 @@
         },
     "53":
         {
-            "Location":"xxx",
+            "Location":"Magicant",
             "SoftLock":"No"
         },
     "54":
@@ -287,7 +287,7 @@
         },
     "58":
         {
-            "Location":"xxx",
+            "Location":"Dungeon Man",
             "SoftLock":"No"
         },
     "59":
@@ -342,7 +342,7 @@
         },
     "69":
         {
-            "Location":"xxx",
+            "Location":"Threed",
             "SoftLock":"No"
         },
     "70":
@@ -352,12 +352,12 @@
         },
     "71":
         {
-            "Location":"xxx",
+            "Location":"Threed Dusty Dunes tunnel ",
             "SoftLock":"No"
         },
     "72":
         {
-            "Location":"xxx",
+            "Location":"Dusty Dunes",
             "SoftLock":"No"
         },
     "73":
@@ -467,7 +467,7 @@
         },
     "94":
         {
-            "Location":"xxx",
+            "Location":"Cave of the Past (Present)",
             "SoftLock":"No"
         },
     "95":
@@ -492,7 +492,7 @@
         },
     "99":
         {
-            "Location":"xxx",
+            "Location":"Threed hotel",
             "SoftLock":"No"
         },
     "100":
@@ -537,7 +537,7 @@
         },
     "108":
         {
-            "Location":"xxx",
+            "Location":"Moonside",
             "SoftLock":"No"
         },
     "109":
@@ -582,7 +582,7 @@
         },
     "117":
         {
-            "Location":"xxx",
+            "Location":"Onett",
             "SoftLock":"No"
         },
     "118":
@@ -597,7 +597,7 @@
         },
     "120":
         {
-            "Location":"xxx",
+            "Location":"Cabin (HHV)",
             "SoftLock":"No"
         },
     "121":
@@ -667,7 +667,7 @@
         },
     "134":
         {
-            "Location":"xxx",
+            "Location":"Topolla Theatre",
             "SoftLock":"No"
         },
     "135":
@@ -682,7 +682,7 @@
         },
     "137":
         {
-            "Location":"xxx",
+            "Location":"Summers",
             "SoftLock":"No"
         },
     "138":
@@ -752,7 +752,7 @@
         },
     "151":
         {
-            "Location":"xxx",
+            "Location":"Onett",
             "SoftLock":"No"
         },
     "152":
@@ -767,7 +767,7 @@
         },
     "154":
         {
-            "Location":"xxx",
+            "Location":"Fourside Bar",
             "SoftLock":"No"
         },
     "155":
@@ -867,7 +867,7 @@
         },
     "174":
         {
-            "Location":"xxx",
+            "Location":"Summers",
             "SoftLock":"No"
         },
     "175":
@@ -897,7 +897,7 @@
         },
     "180":
         {
-            "Location":"xxx",
+            "Location":"Scaraba",
             "SoftLock":"No"
         },
     "181":
@@ -907,7 +907,7 @@
         },
     "182":
         {
-            "Location":"xxx",
+            "Location":"Summers",
             "SoftLock":"No"
         },
     "183":
@@ -932,7 +932,7 @@
         },
     "187":
         {
-            "Location":"xxx",
+            "Location":"Soft Lock Unless TP Anywhere",
             "SoftLock":"No"
         },
     "188":
@@ -1042,7 +1042,7 @@
         },
     "209":
         {
-            "Location":"xxx",
+            "Location":"Fourside tunnel",
             "SoftLock":"No"
         },
     "210":
@@ -1062,7 +1062,7 @@
         },
     "213":
         {
-            "Location":"xxx",
+            "Location":"Threed tunnel",
             "SoftLock":"No"
         },
     "214":
@@ -1092,7 +1092,7 @@
         },
     "219":
         {
-            "Location":"xxx",
+            "Location":"Onett burger Shop",
             "SoftLock":"No"
         },
     "220":
@@ -1112,7 +1112,7 @@
         },
     "223":
         {
-            "Location":"xxx",
+            "Location":"Twoson",
             "SoftLock":"No"
         },
     "224":
